@@ -1,0 +1,27 @@
+:root {
+  --Primary-0: #ffffff;
+  --Primary-100: #d6e4fd;
+  --Primary-200: #aec8fc;
+  --Primary-300: #85a8f8;
+  --Primary-400: #658df1;
+  --Primary-500: rgb(53, 99, 233);
+  --Primary-600: #264bc8;
+  --Primary-700: #1a37a7;
+  --Primary-800: #102587;
+  --Primary-900: #0a196f;
+
+  --Secondary-0: #ffffff;
+  --Secondary-100: #e0e9f4;
+  --Secondary-200: #c3d4e9;
+  --Secondary-300: #90a3bf;
+  --Secondary-400: #596780;
+  --Secondary-500: #1a202c;
+  --Secondary-600: #131825;
+  --Secondary-700: #0d121f;
+  --Secondary-800: #080c19;
+  --Secondary-900: #040815;
+
+  --Information-500: #54a6ff;
+
+  font-family: "Plus Jakarta Sans";
+}
